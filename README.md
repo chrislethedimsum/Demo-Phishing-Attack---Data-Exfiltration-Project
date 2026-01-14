@@ -27,7 +27,7 @@ Figure 1. Fake Shopee-login (non-production). <br />
 
 <img width="342" height="450" alt="Data is collected after users submit" src="https://github.com/user-attachments/assets/3e8e391e-39d7-4ab6-b56d-97f0d333cbe5" /> 
 <br />
-Figure 2. Data is collected after users submit. </center>
+Figure 2. Data is collected after users submit. </center><br />
 3. **Data Exfiltration** - Sending harvested credentials via email to simulate attacker communication
 <center><img width="1438" height="744" alt="Email is sent for new targets" src="https://github.com/user-attachments/assets/77fa3244-700f-4456-931c-b98943320293" /> <br />
 Figure 3. Email is sent by attackers using collected data.</center>
