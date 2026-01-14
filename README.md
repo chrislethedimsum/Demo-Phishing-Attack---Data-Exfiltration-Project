@@ -20,7 +20,7 @@ Misuse of this code for illegal activities is strictly prohibited and subject to
 
 This project demonstrates two key components of a phishing attack campaign:
 
-1. **Phishing Server** - A fake login page that captures user credentials
+1. **Phishing Server** - A fake Shoppee-like login page that captures user credentials
 2. **Data Exfiltration** - Sending harvested credentials via email to simulate attacker communication
 
 The project serves as a hands-on learning tool for understanding how phishing attacks work and how organizations can defend against them.
