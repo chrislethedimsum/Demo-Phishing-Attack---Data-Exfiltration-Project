@@ -23,9 +23,10 @@ This project demonstrates two key components of a phishing attack campaign:
 1. **Phishing Server** - A fake Shopee-like login page that captures user credentials
 <img width="1440" height="887" alt="Fake Shoppe Wepage" src="https://github.com/user-attachments/assets/6c5fa39e-95ab-4370-85d9-1e631806dfe7" />
 Figure 1. Fake Shopee-login (non-production).
+
 <img width="342" height="450" alt="Data is collected after users submit" src="https://github.com/user-attachments/assets/3e8e391e-39d7-4ab6-b56d-97f0d333cbe5" />
 Figure 2. Data is collected after users submit.
-2. **Data Exfiltration** - Sending harvested credentials via email to simulate attacker communication
+3. **Data Exfiltration** - Sending harvested credentials via email to simulate attacker communication
 <img width="1438" height="744" alt="Email is sent for new targets" src="https://github.com/user-attachments/assets/77fa3244-700f-4456-931c-b98943320293" />
 Figure 3. Email is sent by attackers using collected data.
 
